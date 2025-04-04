@@ -1,0 +1,41 @@
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Python bytecode and cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution files (if you rebuild them, you might choose to ignore these)
+dist/
+build/
+
+# Installer logs and caches
+pip-log.txt
+pip-delete-this-directory.txt
+*.egg-info/
+
+# Test, coverage, and temporary files
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+.pytest_cache/
+
+# Jupyter Notebook checkpoints (if using)
+.ipynb_checkpoints/
+
+# Environment files
+.env
+.env.*
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# IDE settings
+.vscode/
+.idea/
